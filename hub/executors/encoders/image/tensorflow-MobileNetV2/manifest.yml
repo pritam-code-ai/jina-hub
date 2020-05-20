@@ -1,0 +1,8 @@
+name: tensorflow.keras MobileNetV2
+description: an image with the encoder of MobileNetV2 from tensorflow.keras
+author: Pritam
+url: https://jina.ai
+documentation: https://github.com/jina-ai/jina-hub
+version: 0.0.3
+vendor: Jina AI Limited
+license: apache-2.0
